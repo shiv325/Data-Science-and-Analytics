@@ -141,4 +141,4 @@ To create sequences of numbers, NumPy provides a function analogous to the range
        Flattened array:
        [1 2 3 4 5 6]
 
-#### __*Note*__: The type of array can be explicitly defined while creating the array.
+> *Note* : The type of array can be explicitly defined while creating the array.
