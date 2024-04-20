@@ -1,0 +1,2 @@
+# Data Visualization
+Data Visualization is a technique of presenting data graphically or in a pictorial format which helps to understand large quantities of data very easily. This allows decision-makers to make better decisions and also allows identifying new trends, patterns in a more efficient way. It is also used in high-level data analysis for Machine Learning and Exploratory Data Analysis (EDA).  Data visualization can be done with various tools like Tableau, Power BI, Python.
